@@ -1,0 +1,4 @@
+192.46.228.24 growtopia1.com
+192.46.228.24 growtopia2.com
+192.46.228.24 www.growtopia1.com
+192.46.228.24 www.growtopia2.com
